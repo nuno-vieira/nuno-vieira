@@ -50,7 +50,7 @@ struct NunoVieira {
 }
 ```
 
-### Tech Stats 📈
+### Github Tech Stats 📈
 <a href="https://github.com/nuno-vieira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-vieira&layout=compact" />
 </a>
