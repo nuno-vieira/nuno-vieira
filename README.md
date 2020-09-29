@@ -20,7 +20,7 @@
 
 Full-Stack Software Engineer with interest and knowledge in both back-end and front-end software development, in either web or mobile native applications. Eager to learn new technologies and improve my coding skills, and constantly researching best practices and new trends in Technology in order to write clean, performant, secure and maintainable code. I consider myself a very creative person which helps me think out-of-the-box and come up with creative solutions for complex problems.
 
-### Current Job 🔭
+### Current Job 🔧
 
 I'm currently working at [Sky](https://github.com/sky-uk) as an iOS Software Engineer in the Core Team, 
 developing the Video Player for [PeacockTV](https://www.peacocktv.com/) and [NowTV](https://www.nowtv.com/) iOS/AppleTV apps.
