@@ -18,9 +18,7 @@
 </br>
 </br>
 
-Full-Stack Software Engineer with interest and knowledge in both back-end and front-end software development, 
-in either web or mobile native applications. I'm always eager to learn new technologies and improve my coding skills, 
-constantly researching  best practices and new trends in order to write clean, performant, secure and maintainable code.
+Full-Stack Software Engineer with interest and knowledge in both back-end and front-end software development, in either web or mobile native applications. Eager to learn new technologies and improve my coding skills, and constantly researching best practices and new trends in Technology in order to write clean, performant, secure and maintainable code. I consider myself a very creative person which helps me think out-of-the-box and come up with creative solutions for complex problems.
 
 ### Current Job 🔭
 
