@@ -1,13 +1,20 @@
 ## Hello 👋, I'm Nuno Vieira 
+<a href="https://www.nunovieira.dev">
+  <span>My Website</span>
+</a>
+<br>
 <a href="https://www.linkedin.com/in/nunofcvieira/">
   <span>LinkedIn</span>
 </a>
+</br>
 <a href="https://medium.com/@nuno.vieira">
   <span>Medium<span>
 </a>
+</br>    
 <a href="https://twitter.com/nuno_fcvieira">
   <span>Twitter</span>
 </a>
+</br>
 <a href="https://www.instagram.com/nunovieira.dev/">
   <span>Instagram</span>
 </a>
