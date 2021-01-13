@@ -19,9 +19,6 @@
   <span>Instagram</span>
 </a>
 
-</br>
-</br>
-
 ### Tech Stack 🔧
 
 ```Swift
