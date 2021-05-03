@@ -24,8 +24,8 @@
 ```Swift
 struct NunoVieira {
   var experience = "6 years"
-  var languages = ["Swift", "Elixir", "TypeScript", "Kotlin", "Python", "Ruby", "Objective-C", "PHP"]
-  var frameworks = ["iOS", "React", "React Native", "Elixir Phoenix", "Laravel", "Flask"]
+  var languages = ["Swift", "Elixir", "TypeScript", "Kotlin", "Python", "Ruby", "Objective-C"]
+  var frameworks = ["iOS", "React", "React Native", "Elixir Phoenix", "Flask", "Ktor", "Kotlin Multiplatform"]
   var databases = ["PostgreSQL", "MySQL", "SQLite", "Realm", "CoreData"]
   var IDEs = ["Xcode", "VSCode", "IntelliJ IDEA"]
   var tools = ["Terminal", "Git", "Jenkins", "CircleCI", "Fastlane"]
