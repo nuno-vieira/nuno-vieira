@@ -1,4 +1,5 @@
-## Hello 👋, I'm Nuno Vieira 
+## Hello 👋, I'm Nuno Vieira
+
 <a href="https://www.nunovieira.dev">
   <span>My Website</span>
 </a>
@@ -25,15 +26,19 @@
 struct NunoVieira {
   var experience = "6 years"
   var languages = ["Swift", "Elixir", "TypeScript", "Kotlin", "Python", "Ruby", "Objective-C"]
-  var frameworks = ["iOS", "React", "React Native", "Elixir Phoenix", "Flask", "Ktor", "Kotlin Multiplatform"]
+  var frameworks = ["iOS", "React", "React Native", "Elixir Phoenix", "Kotlin Multiplatform"]
   var databases = ["PostgreSQL", "MySQL", "SQLite", "Realm", "CoreData"]
   var IDEs = ["Xcode", "VSCode", "IntelliJ IDEA"]
-  var tools = ["Terminal", "Git", "Jenkins", "CircleCI", "Fastlane"]
-  var os = ["macOS", "Windows", "Ubuntu"]
   var cloud = ["AWS", "Heroku"]
 }
 ```
 
 ### Github Tech Stats 📈
 
-<img align="left" alt="nunovieira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nuno-vieira&show_icons=true&hide_border=true&count_private=true" />
+<img alt="nunovieira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nuno-vieira&show_icons=true&hide_border=true&count_private=true" />
+
+### Articles I'm Reading 👨🏻‍🏫
+
+<a href="https://app.daily.dev/NunoVieira">
+  <img src="https://api.daily.dev/devcards/abde1a4045ba41389b95e320b4eed448.png?r=emw" width="400" alt="Nuno Vieira's Dev Card"/>
+</a>
