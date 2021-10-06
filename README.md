@@ -40,5 +40,5 @@ struct NunoVieira {
 ### Articles I'm Reading 👨🏻‍🏫
 
 <a href="https://app.daily.dev/NunoVieira">
-  <img src="https://api.daily.dev/devcards/abde1a4045ba41389b95e320b4eed448.png?r=emw" width="400" alt="Nuno Vieira's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/abde1a4045ba41389b95e320b4eed448.png?r=emw" width="300" alt="Nuno Vieira's Dev Card"/>
 </a>
