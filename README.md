@@ -24,8 +24,8 @@
 
 ```Swift
 struct NunoVieira {
-  var experience = "6 years"
-  var languages = ["Swift", "Elixir", "TypeScript", "Kotlin", "Python", "Ruby", "Objective-C"]
+  var experience = "8 years"
+  var languages = ["Swift", "Objective-C", "Ruby", "Elixir", "TypeScript", "Kotlin"]
   var frameworks = ["iOS", "React", "React Native", "Elixir Phoenix", "Kotlin Multiplatform"]
   var databases = ["PostgreSQL", "MySQL", "SQLite", "Realm", "CoreData"]
   var IDEs = ["Xcode", "VSCode", "IntelliJ IDEA"]
