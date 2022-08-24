@@ -23,13 +23,13 @@
 ### Tech Stack 🔧
 
 ```Swift
-struct NunoVieira {
-  var experience = "8 years"
-  var languages = ["Swift", "Objective-C", "Ruby", "Elixir", "TypeScript", "Kotlin"]
-  var frameworks = ["iOS", "React", "React Native", "Elixir Phoenix", "Kotlin Multiplatform"]
-  var databases = ["PostgreSQL", "MySQL", "SQLite", "Realm", "CoreData"]
-  var IDEs = ["Xcode", "VSCode", "IntelliJ IDEA"]
-  var cloud = ["AWS", "Heroku"]
+struct SoftwareEngineer {
+  let name = "Nuno Vieira"
+  var languages = ["Swift", "Kotlin", "Typescript", "Ruby", "Elixir", "Go"]
+  var frameworks = ["iOS", "React", "Elixir Phoenix", "Kotlin Multiplatform"]
+  var databases = ["PostgreSQL", "MySQL", "SQLite", "Realm", "CoreData", "Firebase"]
+  var tools = ["Xcode", "VSCode", "IntelliJ IDEA", "iTerm2", "Proxyman", "Fork"]
+  var cloud = ["AWS", "Heroku", "Firebase", "GCP"]
 }
 ```
 
