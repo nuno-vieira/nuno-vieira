@@ -59,10 +59,6 @@ struct SoftwareEngineer {
    />
 </a>
 
-### Github Tech Stats 📈
-
-<img alt="nunovieira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nuno-vieira&show_icons=true&hide_border=true&count_private=true" />
-
 ### Articles I'm Reading 👨🏻‍🏫
 
 <a href="https://app.daily.dev/NunoVieira">
